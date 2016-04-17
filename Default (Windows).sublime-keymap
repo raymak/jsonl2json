@@ -1,0 +1,8 @@
+[
+    {
+        "keys": [
+            "ctrl+alt+l"
+        ], 
+        "command": "jsonl_to_json"
+    }
+]

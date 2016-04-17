@@ -1,0 +1,6 @@
+[
+ {
+        "caption": "Jsonl2Json: Convert to Json",
+        "command": "jsonl_to_json"
+    }
+ ]
